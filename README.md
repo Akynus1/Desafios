@@ -1,4 +1,4 @@
-# Desafios
+# desafiosCapgemini
 Aplicações desenvolvidas na linguagem JAVA
 
 ## Instalação
