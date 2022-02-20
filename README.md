@@ -6,7 +6,8 @@ Deve utilizar uma IDE que comporte a linguagem JAVA
 
 ## Informação
 
-´´´
+``` python
+
 # Desafio1 
 Apresentação escalonada a partir de um numero
 
@@ -15,6 +16,8 @@ Receber uma Senha com critérios técnicos
 
 # Desafio3
 Encontrar letras em pares dentro de uma palavra
+```
+
 
 ## Autor
 Edson Aquino
